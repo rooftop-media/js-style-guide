@@ -5,6 +5,12 @@ Ideas borrowed from [this](https://github.com/felixge/node-style-guide#write-sma
 
 <br/><br/><br/><br/>
 
+##  Table of Contents
 
+Click a part title to jump down to it, in this file.
+
+| Tutorial Parts              | Est. Time | # of Steps |
+| --------------------------- | ------ | ---------- |
+|  |  |  |
 
 <h3></h3>
